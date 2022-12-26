@@ -1,0 +1,29 @@
+ul {
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+    overflow: scroll;
+    margin: 30px;
+    padding: 30px;
+    
+    border: 2px solid #ccc;
+    
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+
+    -webkit-overflow-scrolling: touch;
+  }
+  
+
+
+.col {
+  margin-right: 100px;
+}
+
+#result {
+  max-height: 400px;
+  overflow: scroll;
+  
+}
